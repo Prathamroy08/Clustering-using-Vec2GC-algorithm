@@ -1,1 +1,5 @@
 # Clustering-using-Vec2GC-algorithm
+
+## Project Motive and Reason
+
+This project explores advanced clustering techniques for text data using graph-based and traditional machine learning algorithms. The main goal is to analyze and compare the effectiveness of community detection algorithms (like Louvain, Girvan-Newman, Infomap, and Fast-Greedy) and classical clustering methods (K-Means, DBSCAN) on real-world news datasets. By leveraging sentence embeddings and graph representations, the project aims to uncover meaningful communities and evaluate their quality using metrics such as Silhouette Score, Davies-Bouldin Index, and Dunn Index. This comparative study helps in understanding the strengths and limitations of graph-based versus centroid/density-based clustering for complex, high-dimensional data.

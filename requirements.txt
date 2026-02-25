@@ -1,0 +1,10 @@
+datasets
+sentence-transformers
+scikit-learn
+networkx
+python-louvain
+matplotlib
+infomap
+numpy
+pandas
+scipy
